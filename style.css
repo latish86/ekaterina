@@ -12,3 +12,31 @@ Domain Path:
 Tags: 
 */
 
+/****Reset****/
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#wrap{
+    height: 100%;
+}
+
+#front_page_content {
+    width: 60%; 
+    height: 30%;
+    background-color: lightblue;
+    min-width: 100px;
+    max-width: 300px;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
