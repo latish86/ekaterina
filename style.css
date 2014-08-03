@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: lightblue;
+    background-color: lightcyan;
 }
 
 html{
@@ -33,7 +33,6 @@ html{
 #front_page_content {
     width: 60%; 
     height: 300px;
-    background-color: lightblue;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
