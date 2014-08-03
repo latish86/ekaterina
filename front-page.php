@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="wrap">
-            <div id="content">
+            <div id="front_page_content">
                 <?php wp_nav_menu();?>
             </div>
         </div>
